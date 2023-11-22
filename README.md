@@ -1,4 +1,4 @@
-# project_1
+# First Project
 Hello World this is the first github project I have done
 
 
